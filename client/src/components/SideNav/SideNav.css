@@ -1,0 +1,21 @@
+@font-face {
+    font-family: MoonLight;
+    src: url(../../assets/fonts/Moon2.0-Light.otf);
+}
+
+h4#sidenav-header {
+    font-family: 'MoonLight';
+    letter-spacing: 1px;
+    position: relative;
+    top: 1vh;
+    left: 0.25vw;
+}
+
+div#pageButton{
+    position: relative;
+    right: 0.75vw;
+}
+
+div#pageButton:hover {
+    color:#f590fb;
+}
