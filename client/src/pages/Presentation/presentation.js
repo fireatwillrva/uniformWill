@@ -18,7 +18,7 @@ class Presentation extends Component {
                         <div className="row">
                             <div className="col-6" id="bodyLeft">
                                 <h1 id="projectText">Project 3: UniForm</h1>
-                                <h3 id="secondaryText">UniForm is a React application for desktop or tablet use. Uniform is used to communicate data between parties through bespoke form creation and manipulation.</h3>
+                                <h3 id="secondaryText">UniForm is a React Native application for desktop or tablet use. Uniform is used to communicate data between parties through bespoke form creation and manipulation.</h3>
                             </div>
                             <div className="col-6">
                                 <img className="image1" src={landingimage1} alt="logo" />
@@ -32,7 +32,7 @@ class Presentation extends Component {
                         <div className="row">
                             <div className="col-12" id="bodyCenter">
                                 <h1 id="mainText">Technologies Used:</h1>
-                                <h3 id="secondaryText">✔ React</h3>
+                                <h3 id="secondaryText">✔ React Native</h3>
                                 <h3 id="secondaryText">✔ Node and Express Web Server</h3>
                                 <h3 id="secondaryText">✔ MongoDB with Mongoose ORM</h3>
                                 <h3 id="secondaryText">✔ Used multiple GET and POST routes</h3>
